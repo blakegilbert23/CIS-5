@@ -1,0 +1,7 @@
+The name of the game is Blackjack!
+
+You left with $30 this time
+You left with $25 this time
+You left with $25 this time
+You left with $-100 this time
+You left with $505 this time
