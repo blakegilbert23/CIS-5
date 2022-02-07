@@ -1,0 +1,15 @@
+Unix
+
+Unix started in 1969 and was a pioneer for many operating systems. Unix was created before personal computers. The key component of Unix is the "Kernel" (aka the "Master Control Program). Macs, kindle devices, and many smartphones run on some variation of Unix.
+
+C++
+
+C++ was created by Bjarne Stroustrup. C++ allows programmers to do high-level abstractions but efficiently enough (and close enough) to the computer hardware to do really demanding computing tasks. C++ can be used to access hardware directly. Another benefit to using C++ is its stability. C++ has been around for about 40 years and has been able to keep up with changing hardware. The biggest downside to C++ is the complexity of it. C++ is not regaulry updated due to the risk of breaking programs that have been running on C++ for a long time. It could cost companies millions of dollars if their code breaks.
+
+Bells Lab Unix
+
+The first installation of Unix was done back in 1972. There are 3 main layers to the Unix system: the kernel, the shell, and the utilities. The kernel controls the machine. The shell is the interface between the user and the hardware. The utilities are things such as text editors and compilers. Unix simplified the interaction between users and machines.
+
+Linus Torvald
+
+Linus Torvald is responsible for creating the Linux kernel. He feels that one of the biggest reasons it reached the success that it did is because he made it open-source. He is not angry that companies like Google make billions of dollars off his design. He knows what his strengths and weaknesses are and is aware that relying on other people to fill in his weak spots was crucial to his success. Without other people, neither Linus nor Linux would not have reached the success that they did.
